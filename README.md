@@ -1,6 +1,6 @@
 # GNN-LF/HF
 
-Source Code for WWW2021 : Interpreting and Unifying Graph Neural Networks with An Optimization Framework.
+WWW2021 : Interpreting and Unifying Graph Neural Networks with An Optimization Framework. [Best Paper Awards Nomination!]
 
 ## Resources
 [[Paper]](http://shichuan.org/doc/105.pdf) & [[PPT]](http://shichuan.org/doc/105_PPT.pdf) & [[Video(in Chinese)]](https://www.bilibili.com/video/BV1Fh411Q7x7) & [[Video(in English)]](https://www.youtube.com/watch?v=CUkrotAwQVI)
@@ -49,6 +49,17 @@ python main.py --dataset=cora -t=1 -f=1 --device=0
 
 ## Cite
 
+Please cite our paper if you use this code in your own work:
+
+````
+@inproceedings{zhu2021interpreting,
+  title={Interpreting and Unifying Graph Neural Networks with An Optimization Framework},
+  author={Zhu, Meiqi and Wang, Xiao and Shi, Chuan and Ji, Houye and Cui, Peng},
+  booktitle={Proceedings of the Web Conference 2021},
+  pages={1215--1226},
+  year={2021}
+}
+````
 
 ## Contact 
 
